@@ -1,0 +1,12 @@
+beautifulsoup4==4.8.0
+certifi==2019.6.16
+chardet==3.0.4
+cx-Oracle==7.2.2
+decorator==4.4.0
+idna==2.8
+pkg-resources==0.0.0
+public==2019.4.13
+requests==2.22.0
+self==2019.4.13
+soupsieve==1.9.3
+urllib3==1.25.3
